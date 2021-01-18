@@ -38,7 +38,7 @@
     "ethereumjs-common": "1.5.0",
     "ethereumjs-tx": "2.1.2",
     "ethereumjs-util": "6.2.0",
-    "ethereumjs-vm": "clearmatics/ethereumjs-vm#v4.1.3-clearmatics",
+    "ethereumjs-vm": "clearmatics/ethereumjs-vm#v4.1.4-clearmatics",
     "heap": "0.2.6",
     "level-sublevel": "6.6.4",
     "levelup": "3.1.1",
